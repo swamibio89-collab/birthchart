@@ -1,0 +1,7 @@
+flask
+swisseph
+matplotlib
+geopy
+requests
+timezonefinder
+astral>=2.2
